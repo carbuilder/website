@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/carbuilder/website/issues"
   },
-  "homepage": "https://github.com/carbuilder/website#readme"
+  "homepage": "https://github.com/carbuilder/website#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
